@@ -21,7 +21,7 @@ copyright = "©2021 Kaiyuan Yang"
   # ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   #  date format
-  dateFormat = "1999-06-06"
+  dateFormat = "2006-01-02"
 
   # website images for Open Graph and Twitter Cards
   images = ["/images/avatar.png"]
