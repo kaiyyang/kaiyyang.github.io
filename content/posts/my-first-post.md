@@ -1,6 +1,6 @@
 ---
 title: "Start Blogging"
-date: 2021-04-25T13:34:24-07:00
+date: 2021-04-24T13:34:24-07:00
 draft: true
 ---
 
