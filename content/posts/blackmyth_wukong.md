@@ -1,6 +1,6 @@
 ---
 title: "Black Myth: Wukong"
-date: 2021-08-22T13:34:24-07:00
+date: 2021-08-23T11:06:24-07:00
 draft: false
 ---
 
