@@ -11,6 +11,6 @@ comment: false
 
 ## Hello! 
 
-I'm a **Junior** Students at University of British Columbia in honors CS program. My current interests are Compiler Construction, Algorithm and Machine Learning. Currrently, I am working as a Web Developer (primarily Back-end) at [*BGC Engineeering Inc*](https://bgcengineering.ca/).
+I'm a **Junior** Students at University of British Columbia in honors CS program. My current interests are Compiler Construction, Algorithm and Machine Learning. Currrently, I am working as a Web Developer (primarily Back-end) at [*BGC Engineeering Inc*](https://bgcengineering.ca/). I also have incoming internship at Salesforce for the Winter 2022.
 
 
