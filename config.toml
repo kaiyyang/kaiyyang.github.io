@@ -155,7 +155,10 @@ copyright = "©2021 Kaiyuan Yang"
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "I’m a Junior Honor CS Student at University of British Columbia. My current interests are Compiler Construction, Algorithm and Machine Learning. Currently, I am working as a Web Developer Co-op at BGC Engineering Inc."
+      disclaimer = "I’m a Junior Honor CS Student at University of British Columbia.
+      My current interests are Compiler Construction, Algorithm and Machine Learning. 
+      Currently, I am working as a Web Developer Co-op at BGC Engineering Inc. 
+      I will be working as a Sotware Engineer Intern at Salesforce for Winter 2022."
 
 
     # Home page posts
