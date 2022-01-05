@@ -2,7 +2,7 @@ baseURL = "http://kyyang.me/"
 languageCode = "en-us"
 title = "Kaiyuan Yang"
 theme = "LoveIt"
-copyright = "©2021 Kaiyuan Yang"
+copyright = "©2022 Kaiyuan Yang"
 
 
 [params]
@@ -155,10 +155,7 @@ copyright = "©2021 Kaiyuan Yang"
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "I’m a Junior Honor CS Student at University of British Columbia.
-      My current interests are Compiler Construction, Algorithm and Machine Learning. 
-      Currently, I am working as a Web Developer Co-op at BGC Engineering Inc. 
-      I will be working as a Sotware Engineer Intern at Salesforce for Winter 2022."
+      disclaimer = "I’m a Junior Honor CS Student at University of British Columbia. My interests are Compiler Construction, Algorithm and Machine Learning. Currently, I am working as a Software Engineer Intern at Salesforce on the Lightning Reports, Analytics."
 
 
     # Home page posts

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kaiyuan Yang</title>
+    <link>http://kyyang.me/posts/</link>
+    <description>Recent content in Posts on Kaiyuan Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2021 Kaiyuan Yang</copyright>
+    <lastBuildDate>Mon, 23 Aug 2021 11:06:24 -0700</lastBuildDate><atom:link href="http://kyyang.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Myth: Wukong</title>
+      <link>http://kyyang.me/blackmyth_wukong/</link>
+      <pubDate>Mon, 23 Aug 2021 11:06:24 -0700</pubDate>
+      
+      <guid>http://kyyang.me/blackmyth_wukong/</guid>
+      <description>Black Myth: Wukong 黑神话：悟空 This is the 3A game on the top of my wishlist. Below are the captions exported from the 12 minutes UE5 test.(here)
+ 不杀生, 仇恨永无止息
+Thou shalt kill, lest feuds instill
+不偷盗, 强弱如我何异
+Thou shalt steal, as decreed by the freewill
+不邪淫, 一切有情皆孽
+Thou shalt commit adultery, for love thrives in debauchery.
+不妄语, 梦幻泡影空虚
+Thou shalt speak the untruth, to inspire and seduce.
+不馋酒, 忧怖涨落无常
+Drench in fine wines, to sooth your mind where emotions entwine.</description>
+    </item>
+    
+    <item>
+      <title>Start Blogging</title>
+      <link>http://kyyang.me/my-first-post/</link>
+      <pubDate>Sat, 24 Apr 2021 13:34:24 -0700</pubDate>
+      
+      <guid>http://kyyang.me/my-first-post/</guid>
+      <description>Welcome to my Blog! I finally find a place that I express my insight to what I learn, what I saw and what I think. I will be posting more blogs over the summer (Starting with a more detailed about me (I guess? 😇)). Stay tuned! .
+Thank you again for checking my sites.</description>
+    </item>
+    
+  </channel>
+</rss>
