@@ -1,4 +1,4 @@
-baseURL = "http://kyyang.me/"
+baseURL = "http://kaiyyang.github.io/"
 languageCode = "en-us"
 title = "Kaiyuan Yang"
 theme = "LoveIt"
@@ -9,7 +9,7 @@ copyright = "©2022 Kaiyuan Yang"
   favicon = "/static/favicon.ico" # Path to favicon file
   #  LoveIt theme version
   version = "0.2.X"
-  # site description
+  # site descriptionhugo
   description = "Kaiyuan's personal website"
   # site keywords
   keywords = ["Theme", "Hugo"]
@@ -149,13 +149,13 @@ copyright = "©2022 Kaiyuan Yang"
       #  title shown in home page (HTML format is supported)
       title = "Kaiyuan Yang"
       # subtitle shown in home page
-      subtitle = "Software Engineer｜👨🏼‍💻｜📖｜🎻"
+      subtitle = "Software Engineer｜👨🏼‍💻｜📖｜🎻|🎾｜🏂"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "I’m a Senior CS Student at University of British Columbia. My interests are Compilers, Programming Language and Algorithms. Currently, I am working as a Software Engineer Intern at Coinbase."
+      disclaimer = "I'm a recent graduate from University of British Columbia. My interests programming Language, Algorithms, distributed systems and in particular how I can apply them to the BlockChain Space. Currently, I am working as a Software Engineer at Coinbase."
 
 
     # Home page posts
@@ -169,9 +169,9 @@ copyright = "©2022 Kaiyuan Yang"
 
   # Social config about the author
   [params.social]
-    GitHub = "kaiyuan-y"
-    Linkedin = "kaiy-yang"
-    Email = "yang.k.yuan@gmail.com"
+    GitHub = "kaiyyang"
+    Linkedin = "kaiyuany"
+    Email = "kaiyuan.yang66@gmail.com"
 
   #  Page config
   [params.page]

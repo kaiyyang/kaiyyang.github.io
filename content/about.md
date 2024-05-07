@@ -11,6 +11,6 @@ comment: false
 
 ## Hello! 
 
-I'm a **Junior** Students at University of British Columbia in honors CS program. My current interests are Compiler Construction, Algorithm and Machine Learning. Currrently, I am working as a Web Developer (primarily Back-end) at [*BGC Engineeering Inc*](https://bgcengineering.ca/).
+I'm a recent Graduate from University of British Columbia. My current interests are Algorithm, Distributed systems and in particular how we can them to the BlockChain world. Currrently, I am working as a Software Engineer at Coinbase.
 
 
